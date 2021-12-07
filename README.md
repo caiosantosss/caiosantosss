@@ -16,7 +16,7 @@ Hello there, my name is Caio Santos
   <img align="right" alt="gif yoda" height="40" width="60" src="https://i.pinimg.com/originals/1b/58/77/1b58772e23bb5b761ded9aa1d1e1d7e4.gif"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caiosantosss/dist/github-contribution-grid-snake.svg)
 
 
 
