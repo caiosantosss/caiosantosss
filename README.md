@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+  <img align="center" alt="RubyonRails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -21,7 +21,7 @@
   
   <img align="right" alt="gif yoda" height="40" width="60" src="https://i.pinimg.com/originals/1b/58/77/1b58772e23bb5b761ded9aa1d1e1d7e4.gif"/>
 
-![Snake animation](https://github.com/caiosantosss/caiosantosss/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/caiosantosss/caiosantosss/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
