@@ -1,5 +1,5 @@
 <h4>Hello there, my name is Caio Santos, I'm currently living in Tokyo, 🗾🍙🎌🏯.</h4>
-<h4>Welcome to my Github 💻💚🤓</h4>
+<h4>Welcome to my Github 💻🤓</h4>
 <br><br>
 
 <div align="center">
